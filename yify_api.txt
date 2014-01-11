@@ -1,0 +1,217 @@
+YIFY Torrents AVI Replacer
+stdClass Object
+(
+    [MovieCount] => 1
+    [MovieList] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [MovieID] => 3738
+                    [State] => OK
+                    [MovieUrl] => http://yify-torrents.com/movie/Conan_the_Barbarian_2011_1080p
+                    [MovieTitle] => Conan the Barbarian (2011) 1080p
+                    [MovieTitleClean] => Conan the Barbarian
+                    [MovieYear] => 2011
+                    [DateUploaded] => 2013-07-03 20:30:25
+                    [DateUploadedEpoch] => 1372840225
+                    [Quality] => 1080p
+                    [CoverImage] => http://static.yify-torrents.com/attachments/Conan_the_Barbarian_2011_1080p/poster_1_med.jpg
+                    [ImdbCode] => tt0816462
+                    [ImdbLink] => http://www.imdb.com/title/tt0816462/
+                    [Size] => 1.65 GB
+                    [SizeByte] => 1771674010
+                    [MovieRating] => 5.1
+                    [Genre] => Action
+                    [Uploader] => YIFY
+                    [UploaderUID] => 16
+                    [Downloaded] => 87727
+                    [TorrentSeeds] => 217
+                    [TorrentPeers] => 64
+                    [TorrentUrl] => http://yify-torrents.com/download/start/Conan_the_Barbarian_2011_1080p_BluRay_x264_YIFY_mp4_1.torrent
+                    [TorrentHash] => 9e405c6ff0b06e9e5fa979bebbc0cd00edc91a34
+                    [TorrentMagnetUrl] => magnet:?xt=urn:btih:9e405c6ff0b06e9e5fa979bebbc0cd00edc91a34&dn=Conan+the+Barbarian&tr=http://exodus.desync.com:6969/announce&tr=udp://tracker.openbittorrent.com:80/announce&tr=udp://tracker.1337x.org:80/announce&tr=udp://exodus.desync.com:6969/announce&tr=udp://tracker.yify-torrents.com/announce
+                )
+
+        )
+
+)
+stdClass Object
+(
+    [MovieCount] => 1
+    [MovieList] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [MovieID] => 1403
+                    [State] => OK
+                    [MovieUrl] => http://yify-torrents.com/movie/Space_Cowboys_2000_1080p
+                    [MovieTitle] => Space Cowboys (2000) 1080p
+                    [MovieTitleClean] => Space Cowboys
+                    [MovieYear] => 2000
+                    [DateUploaded] => 2012-06-12 21:27:42
+                    [DateUploadedEpoch] => 1339493262
+                    [Quality] => 1080p
+                    [CoverImage] => http://static.yify-torrents.com/attachments/Space_Cowboys_2000_1080p/sapaeb1080_med.jpg
+                    [ImdbCode] => tt0186566
+                    [ImdbLink] => http://www.imdb.com/title/tt0186566/
+                    [Size] => 1.55 GB
+                    [SizeByte] => 1664299827
+                    [MovieRating] => 6.3
+                    [Genre] => Action
+                    [Uploader] => YIFY
+                    [UploaderUID] => 16
+                    [Downloaded] => 15121
+                    [TorrentSeeds] => 35
+                    [TorrentPeers] => 12
+                    [TorrentUrl] => http://yify-torrents.com/download/start/Space_Cowboys_2000_1080p.torrent
+                    [TorrentHash] => 333f95e1d078c8c838ff13d71c99d98ab34b5abc
+                    [TorrentMagnetUrl] => magnet:?xt=urn:btih:333f95e1d078c8c838ff13d71c99d98ab34b5abc&dn=Space+Cowboys&tr=http://exodus.desync.com:6969/announce&tr=udp://tracker.openbittorrent.com:80/announce&tr=udp://tracker.1337x.org:80/announce&tr=udp://exodus.desync.com:6969/announce&tr=udp://tracker.yify-torrents.com/announce
+                )
+
+        )
+
+)
+stdClass Object
+(
+    [MovieCount] => 1
+    [MovieList] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [MovieID] => 3253
+                    [State] => OK
+                    [MovieUrl] => http://yify-torrents.com/movie/Gone_Baby_Gone_2007_1080p
+                    [MovieTitle] => Gone Baby Gone (2007) 1080p
+                    [MovieTitleClean] => Gone Baby Gone
+                    [MovieYear] => 2007
+                    [DateUploaded] => 2013-03-21 20:46:52
+                    [DateUploadedEpoch] => 1363852012
+                    [Quality] => 1080p
+                    [CoverImage] => http://static.yify-torrents.com/attachments/Gone_Baby_Gone_2007_1080p/gonebabybgone1080_med.jpg
+                    [ImdbCode] => tt0452623
+                    [ImdbLink] => http://www.imdb.com/title/tt0452623/
+                    [Size] => 1.50 GB
+                    [SizeByte] => 1610612736
+                    [MovieRating] => 7.8
+                    [Genre] => Crime
+                    [Uploader] => Bokutox
+                    [UploaderUID] => 19020
+                    [Downloaded] => 39619
+                    [TorrentSeeds] => 110
+                    [TorrentPeers] => 30
+                    [TorrentUrl] => http://yify-torrents.com/download/start/Gone_Baby_Gone_2007_1080p.torrent
+                    [TorrentHash] => d8ee2c093ded57ecdb9a2bcadaf94c7073a984be
+                    [TorrentMagnetUrl] => magnet:?xt=urn:btih:d8ee2c093ded57ecdb9a2bcadaf94c7073a984be&dn=Gone+Baby+Gone&tr=http://exodus.desync.com:6969/announce&tr=udp://tracker.openbittorrent.com:80/announce&tr=udp://tracker.1337x.org:80/announce&tr=udp://exodus.desync.com:6969/announce&tr=udp://tracker.yify-torrents.com/announce
+                )
+
+        )
+
+)
+stdClass Object
+(
+    [MovieCount] => 1
+    [MovieList] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [MovieID] => 1482
+                    [State] => OK
+                    [MovieUrl] => http://yify-torrents.com/movie/Shutter_Island_2010_1080p
+                    [MovieTitle] => Shutter Island (2010) 1080p
+                    [MovieTitleClean] => Shutter Island
+                    [MovieYear] => 2010
+                    [DateUploaded] => 2012-06-26 18:25:05
+                    [DateUploadedEpoch] => 1340691905
+                    [Quality] => 1080p
+                    [CoverImage] => http://static.yify-torrents.com/attachments/Shutter_Island_2010_1080p/shutter_island_1_med.jpg
+                    [ImdbCode] => tt1130884
+                    [ImdbLink] => http://www.imdb.com/title/tt1130884/
+                    [Size] => 1.90 GB
+                    [SizeByte] => 2040109466
+                    [MovieRating] => 8.0
+                    [Genre] => Drama
+                    [Uploader] => YIFY
+                    [UploaderUID] => 16
+                    [Downloaded] => 66110
+                    [TorrentSeeds] => 524
+                    [TorrentPeers] => 121
+                    [TorrentUrl] => http://yify-torrents.com/download/start/Shutter_Island_2010_1080p_1.torrent
+                    [TorrentHash] => cdf09bffc475789aa557eff19a090735412be99d
+                    [TorrentMagnetUrl] => magnet:?xt=urn:btih:cdf09bffc475789aa557eff19a090735412be99d&dn=Shutter+Island&tr=http://exodus.desync.com:6969/announce&tr=udp://tracker.openbittorrent.com:80/announce&tr=udp://tracker.1337x.org:80/announce&tr=udp://exodus.desync.com:6969/announce&tr=udp://tracker.yify-torrents.com/announce
+                )
+
+        )
+
+)
+stdClass Object
+(
+    [MovieCount] => 1
+    [MovieList] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [MovieID] => 1800
+                    [State] => OK
+                    [MovieUrl] => http://yify-torrents.com/movie/Thor_2011_1080p
+                    [MovieTitle] => Thor (2011) 1080p
+                    [MovieTitleClean] => Thor
+                    [MovieYear] => 2011
+                    [DateUploaded] => 2012-08-26 23:40:48
+                    [DateUploadedEpoch] => 1345981248
+                    [Quality] => 1080p
+                    [CoverImage] => http://static.yify-torrents.com/attachments/Thor_2011_1080p/thor_1080p_med.jpg
+                    [ImdbCode] => tt0800369
+                    [ImdbLink] => http://www.imdb.com/title/tt0800369/
+                    [Size] => 1.61 GB
+                    [SizeByte] => 1728724337
+                    [MovieRating] => 7.0
+                    [Genre] => Action
+                    [Uploader] => hillelitz
+                    [UploaderUID] => 35139
+                    [Downloaded] => 128732
+                    [TorrentSeeds] => 389
+                    [TorrentPeers] => 118
+                    [TorrentUrl] => http://yify-torrents.com/download/start/Thor_2011_1080p.torrent
+                    [TorrentHash] => abce88ccc2d0690078840a20398f32077c89ff0e
+                    [TorrentMagnetUrl] => magnet:?xt=urn:btih:abce88ccc2d0690078840a20398f32077c89ff0e&dn=Thor&tr=http://exodus.desync.com:6969/announce&tr=udp://tracker.openbittorrent.com:80/announce&tr=udp://tracker.1337x.org:80/announce&tr=udp://exodus.desync.com:6969/announce&tr=udp://tracker.yify-torrents.com/announce
+                )
+
+        )
+
+)
+stdClass Object
+(
+    [MovieCount] => 1
+    [MovieList] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [MovieID] => 3221
+                    [State] => OK
+                    [MovieUrl] => http://yify-torrents.com/movie/TRON_1982_1080p
+                    [MovieTitle] => TRON (1982) 1080p
+                    [MovieTitleClean] => TRON
+                    [MovieYear] => 1982
+                    [DateUploaded] => 2013-03-18 12:37:10
+                    [DateUploadedEpoch] => 1363563430
+                    [Quality] => 1080p
+                    [CoverImage] => http://static.yify-torrents.com/attachments/TRON_1982_1080p/TRON_1982_1080p_cover_med.jpg
+                    [ImdbCode] => tt0084827
+                    [ImdbLink] => http://www.imdb.com/title/tt0084827/
+                    [Size] => 1.40 GB
+                    [SizeByte] => 1503238554
+                    [MovieRating] => 6.7
+                    [Genre] => Action
+                    [Uploader] => bitloks
+                    [UploaderUID] => 209658
+                    [Downloaded] => 27486
+                    [TorrentSeeds] => 62
+                    [TorrentPeers] => 23
+                    [TorrentUrl] => http://yify-torrents.com/download/start/Tron_1982_1080p.torrent
+                    [TorrentHash] => 622e8cd8a40e5ab6a80637a09d388c0dc8c7a1c2
+                    [TorrentMagnetUrl] => magnet:?xt=urn:btih:622e8cd8a40e5ab6a80637a09d388c0dc8c7a1c2&dn=TRON&tr=http://exodus.desync.com:6969/announce&tr=udp://tracker.openbittorrent.com:80/announce&tr=udp://tracker.1337x.org:80/announce&tr=udp://exodus.desync.com:6969/announce&tr=udp://tracker.yify-torrents.com/announce
+                )
+
+        )
+
+)

@@ -1,0 +1,14 @@
+* {
+	text-align: center;
+}
+#results, #status {
+	border: thin solid black;
+	margin: 0 auto 5px;
+	width: 50%;
+}
+table {
+	margin: 0 auto 5px;
+}
+td {
+	padding: 0 4px;
+}
